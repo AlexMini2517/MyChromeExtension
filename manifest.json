@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "È",
+    "version": "1.0.0",
+
+    "action": {
+        "default_popup": "index.html"
+    },
+    "description": "Copies È to the clipboard",
+
+    "author": "AlexMini"
+}
